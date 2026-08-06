@@ -1,18 +1,11 @@
 ## Hey, This is **Samriddha** speaking 👋
 
-### Software Developer interested in <u>Full Stack Development</u>, <u>Artificial Intelligence</u>, and <u>Open Source</u>.
+#### Expertised in <u>Full Stack Development</u>, <u>Artificial Intelligence</u>, and <u>Open Source</u>.
+#### Learn About Me
+- Student
+- Part-time freelancer
+- Currently learning AI/ ML
+- Fluent in English and Hindi
+- Academically strong (95% aggregate score)
+- Adept in Full-Stack engineering with Open-Source platforms
 
-<!--
-**samcore07/samcore07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
