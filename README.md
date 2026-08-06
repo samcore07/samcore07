@@ -9,29 +9,34 @@
 - Academically strong (95% aggregate score)
 - Adept in Full-Stack engineering with Open-Source platforms
 #### My Hall of Fame
-##### Languages (2 years+ exp)
+##### `Languages` (2 years+ exp)
 - Python 
 - Java 
 - C++
 - JavaScript
 - PHP
-##### Frontend
+##### `Frontend`
 - HTML
 - CSS
 - JavaScript
-##### Backend
+##### `Backend`
 - PHP
 - Laravel
 - CodeIgniter
-##### Database
+##### `Database`
 - MySQL
 - PostgreSQL
-##### Tools
+##### `Tools`
 - Git
 - Docker
 - VS Code
 - WordPress(CMS)
-
+#### Currently Learning
+- Flask (micro-frame work of Python)
+- React (open source JS library)
+- Topics related to AI/ML
+#### Amused enough? Contact me for gigs/freelancing
+- sammydattebayo@gmail.com (Gmail)
   
 
 
