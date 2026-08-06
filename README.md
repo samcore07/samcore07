@@ -1,14 +1,14 @@
 ## Hey, This is **Samriddha** speaking 👋
 
 #### Expertised in `Full Stack Development`, `Artificial Intelligence`, and `Open Source`.
-#### Learn About Me
+#### **Learn About Me**
 - Student
 - Part-time freelancer
 - Currently learning AI/ ML
 - Fluent in English and Hindi
 - Academically strong (95% aggregate score)
 - Adept in Full-Stack engineering with Open-Source platforms
-#### My Hall of Fame
+#### **My Hall of Fame**
 ##### `Languages` (2 years+ exp)
 - Python 
 - Java 
@@ -31,12 +31,12 @@
 - Docker
 - VS Code
 - WordPress(CMS)
-#### Currently Learning
+#### **Currently Learning**
 - Flask (micro-frame work of Python)
 - React (open source JS library)
 - Topics related to AI/ML
-#### Amused enough? Contact me for gigs/freelancing
-- sammydattebayo@gmail.com (Gmail)
+#### **Amused enough? Contact me for gigs/freelancing**
+- sammydattebayo@gmail.com
   
 
 
