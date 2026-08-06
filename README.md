@@ -36,7 +36,7 @@
 - React (open source JS library)
 - Topics related to AI/ML
 #### **Amused enough? Contact me for gigs/freelancing**
-- sammydattebayo@gmail.com
+- saamriddha@gmail.com
   
 
 
