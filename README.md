@@ -1,6 +1,6 @@
 ## Hey, This is **Samriddha** speaking 👋
 
-#### Expertised in <u>Full Stack Development</u>, <u>Artificial Intelligence</u>, and <u>Open Source</u>.
+#### Expertised in `Full Stack Development`, `Artificial Intelligence`, and `Open Source`.
 #### Learn About Me
 - Student
 - Part-time freelancer
@@ -8,4 +8,32 @@
 - Fluent in English and Hindi
 - Academically strong (95% aggregate score)
 - Adept in Full-Stack engineering with Open-Source platforms
+#### My Hall of Fame
+##### Languages (2 years+ exp)
+- Python 
+- Java 
+- C++
+- JavaScript
+- PHP
+##### Frontend
+- HTML
+- CSS
+- JavaScript
+##### Backend
+- PHP
+- Laravel
+- CodeIgniter
+##### Database
+- MySQL
+- PostgreSQL
+##### Tools
+- Git
+- Docker
+- VS Code
+- WordPress(CMS)
+
+  
+
+
+  
 
