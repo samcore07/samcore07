@@ -1,6 +1,6 @@
 ## Hey, This is **Samriddha** speaking 👋
 
-#### Expertised in `Full Stack Development`, `Artificial Intelligence`, and `Open Source`.
+#### Specialism in `Full Stack Development`, `Artificial Intelligence`, and `Open Source`.
 #### **Learn About Me**
 - Student
 - Part-time freelancer
