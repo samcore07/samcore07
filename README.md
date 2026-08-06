@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey, This is **Samriddha** speaking 👋
+
+### Software Developer interested in <u>Full Stack Development</u>, <u>Artificial Intelligence</u>, and <u>Open Source</u>.
 
 <!--
 **samcore07/samcore07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
