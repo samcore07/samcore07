@@ -50,27 +50,16 @@
 </picture>
 
 ## 📝 Driven by Purpose
- To place three cards side by side with a light/white background theme (default or light), wrap them inside a single paragraph and adjust theme=default or theme=light across all three cards.
 
-Here is the exact HTML code to replace your current quote section in README.md:
-
-HTML
-<p align="left">
-  =
+<p align="center">
   <a href="https://github.com/shravan20/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=default&quoteType=technology" alt="Developer Quote" width="32%" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=default&quoteType=technology&cardPosition=1" alt="Developer Quote 1" width="31%" />
   </a>
-  </p>
-  <p align="center">
-  =
   <a href="https://github.com/shravan20/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=default&quoteType=technology" alt="Developer Quote" width="32%" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=default&quoteType=technology&cardPosition=2" alt="Developer Quote 2" width="31%" />
   </a>
-  </p>
-  <p align="right">
- =
   <a href="https://github.com/shravan20/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=default&quoteType=technology" alt="Developer Quote" width="32%" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=default&quoteType=technology&cardPosition=3" alt="Developer Quote 3" width="31%" />
   </a>
 </p>
 
