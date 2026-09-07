@@ -1,11 +1,12 @@
 ## Hey, This is **Samriddha** speaking 👋
 
 <div align="center">
-  <!-- Animated Typing Banner -->
+  <p>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Samriddha+Biswas+speaking;You're+Welcome+Here;">
-
-  <!-- Profile View Counter -->
+</p>
+  <p>
   <img src="https://komarev.com/ghpvc/?username=samcore07&color=39d353&label=profile+views">
+  </p>
 </div>
 
 ## 💡 Tech Ecosystem
