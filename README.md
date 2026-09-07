@@ -42,7 +42,7 @@
 ## 📈 GitHub Analytics
 [![GitHub Streak](https://streak-stats.demolab.com?user=samcore07&theme=light&border_radius=5)](https://git.io/streak-stats)
 
-![Activity Graph](assets/activity.svg)
+![Activity Graph](https://raw.githubusercontent.com/samcore07/samcore07/master/assets/activity.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samcore07/samcore07/output/github-contribution-grid-snake-dark.svg">
