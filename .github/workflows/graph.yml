@@ -2,8 +2,8 @@ name: Generate Activity Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs automatically every 24 hours
-  workflow_dispatch: # Allows manual trigger from Actions tab
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -17,7 +17,5 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: samcore07
           template: classic
-          base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 5
+          base: activity, community, repositories
           filename: assets/activity.svg
