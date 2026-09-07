@@ -53,13 +53,15 @@
 
 <p align="center">
   <a href="https://github.com/shravan20/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=default&quoteType=technology&cardPosition=1" alt="Developer Quote 1" width="31%" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=default&quoteType=technology&cardPosition=1" alt="Developer Quote 1" width="30%" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/shravan20/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=default&quoteType=technology&cardPosition=2" alt="Developer Quote 2" width="31%" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=default&quoteType=technology&cardPosition=2" alt="Developer Quote 2" width="30%" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/shravan20/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=default&quoteType=technology&cardPosition=3" alt="Developer Quote 3" width="31%" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=default&quoteType=technology&cardPosition=3" alt="Developer Quote 3" width="30%" />
   </a>
 </p>
 
