@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Samriddha+Biswas+speaking;You're+Welcome+Here;">
 </p>
 </div>
-<table border="0">
+<table border="0" align="center">
   <tr style="border: none;">
     <td style="border-left: 4px solid #58A6FF; padding-left: 15px; border-top: none; border-bottom: none; border-right: none;">
       🎓 <b>1st Year B.Tech CSE (AI & ML)</b><br>
