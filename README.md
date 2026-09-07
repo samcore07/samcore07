@@ -1,13 +1,30 @@
 ## Hey, This is **Samriddha** speaking 👋
-> &#8203;
-> 🎓 **1st Year B.Tech CSE (AI & ML)**  
-> ⚡ **Adept in Full-Stack Engineering**
+<table border="0">
+  <tr style="border: none;">
+    <td style="border-left: 4px solid #58A6FF; padding-left: 15px; border-top: none; border-bottom: none; border-right: none;">
+      🎓 <b>1st Year B.Tech CSE (AI & ML)</b><br>
+      ⚡ <b>Adept in Full-Stack Engineering</b>
+    </td>
+  </tr>
+  
+  <tr style="border: none;"><td style="height: 10px; border: none;"></td></tr>
 
-> 🔗 Passionate about **Data Pipelines**, **AI**, and **Open Source**  
-> 🌱 Currently Learning: `Flask` • `React` • `Machine Learning`
+  <tr style="border: none;">
+    <td style="border-left: 4px solid #39D353; padding-left: 15px; border-top: none; border-bottom: none; border-right: none;">
+      🔗 Passionate about <b>Data Pipelines</b>, <b>AI</b>, and <b>Open Source</b><br>
+      🌱 Currently Learning: <code>Flask</code> • <code>React</code> • <code>Machine Learning</code>
+    </td>
+  </tr>
 
-> 🔥 LeetCode Enthusiast
-> 📄 Codeforces Grinder 
+  <tr style="border: none;"><td style="height: 10px; border: none;"></td></tr>
+
+  <tr style="border: none;">
+    <td style="border-left: 4px solid #FF7B72; padding-left: 15px; border-top: none; border-bottom: none; border-right: none;">
+      🔥 <b>LeetCode Enthusiast</b><br>
+      📄 <b>Codeforces Grinder</b>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <p>
