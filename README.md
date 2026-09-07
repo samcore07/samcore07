@@ -1,5 +1,16 @@
 ## Hey, This is **Samriddha** speaking 👋
 
+> [!NOTE]
+> 🎓 **1st Year B.Tech CSE (AI & ML)**  
+> ⚡ **Adept in Full-Stack Engineering**
+
+> [!TIP]
+> 💡 Passionate about **Data Pipelines**, **AI**, and **Open Source**  
+> 🌱 Currently Learning: `Flask` • `React` • `Machine Learning`
+
+> [!IMPORTANT]
+> 🔥 **LeetCode Enthusiast**
+
 <div align="center">
   <p>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Samriddha+Biswas+speaking;You're+Welcome+Here;">
