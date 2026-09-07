@@ -31,9 +31,9 @@
 </table>
 
 <div align="center">
-  <h2>
+  
   <img src="https://komarev.com/ghpvc/?username=samcore07&color=39d353&label=profile+views">
-  </h2>
+  
 </div>
 
 ## 💡 Tech Ecosystem
