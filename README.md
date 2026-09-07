@@ -48,7 +48,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samcore07/samcore07/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samcore07/samcore07/output/github-contribution-grid-snake.svg">
-  <img src="assets/metrics.plugin.isocalendar.svg" alt="3D Calendar">
+  <img src="https://raw.githubusercontent.com/samcore07/samcore07/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/metrics.plugin.isocalendar.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/metrics.plugin.isocalendar.svg">
+  <img src="assets/metrics.plugin.isocalendar.svg" alt="3D Isometric Calendar">
 </picture>
   
 
