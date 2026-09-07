@@ -49,7 +49,8 @@
   <img src="https://raw.githubusercontent.com/samcore07/samcore07/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
 </picture>
 
-<p align="center">
+## 📝 Driven by Purpose
+<p >
   <a href="https://github.com/shravan20/github-readme-quotes">
     <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quoteType=technology" alt="Developer Quote" />
   </a>
