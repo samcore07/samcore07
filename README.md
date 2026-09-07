@@ -4,13 +4,13 @@
   <p>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Samriddha+Biswas+speaking;You're+Welcome+Here;">
 </p>
-  <p>
+  <h2>
   <img src="https://komarev.com/ghpvc/?username=samcore07&color=39d353&label=profile+views">
-  </p>
+  </h2>
 </div>
 
 ## 💡 Tech Ecosystem
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java,npm,git,docker,blender,vscode,fastapi,react,flask,opencv,supabase,vercel&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java,git,docker,postgres,vscode,fastapi,pytorch,react,flask,opencv,supabase,vercel&perline=4)](https://skillicons.dev)
 
 ## 📈 GitHub Analytics
 [![GitHub Streak](https://streak-stats.demolab.com?user=samcore07&theme=light&border_radius=5)](https://git.io/streak-stats)
