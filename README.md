@@ -1,6 +1,5 @@
 ## Hey, This is **Samriddha** speaking 👋
-> [!TIP]
->
+> &#8203;
 > 🎓 **1st Year B.Tech CSE (AI & ML)**  
 > ⚡ **Adept in Full-Stack Engineering**
 
