@@ -50,9 +50,25 @@
 </picture>
 
 ## 📝 Driven by Purpose
-<p >
+ To place three cards side by side with a light/white background theme (default or light), wrap them inside a single paragraph and adjust theme=default or theme=light across all three cards.
+
+Here is the exact HTML code to replace your current quote section in README.md:
+
+HTML
+<p align="center">
+  <!-- Card 1: Tech Quote (Light Theme) -->
   <a href="https://github.com/shravan20/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quoteType=technology" alt="Developer Quote" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=default&quoteType=technology" alt="Developer Quote" width="32%" />
+  </a>
+  
+  <!-- Card 2: GitHub Stats (Light Theme) -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=samcore07&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" width="32%" />
+  </a>
+  
+  <!-- Card 3: Top Languages (Light Theme) -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samcore07&layout=compact&theme=default&hide_border=false" alt="Top Languages" width="32%" />
   </a>
 </p>
 
