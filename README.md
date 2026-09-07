@@ -42,44 +42,11 @@
 ## 📈 GitHub Analytics
 [![GitHub Streak](https://streak-stats.demolab.com?user=samcore07&theme=light&border_radius=5)](https://git.io/streak-stats)
 
-
-#### Specialized  in `Full Stack Development`, `Artificial Intelligence`, and `Open Source`.
-#### **Learn About Me**
-- Student
-- Part-time freelancer
-- Currently learning AI/ ML
-- Fluent in English and Hindi
-- Academically strong (95% aggregate score)
-- Adept in Full-Stack engineering with Open-Source platforms
-#### **My Hall of Fame**
-##### `Languages` (2 years+ exp)
-- Python 
-- Java 
-- C++
-- JavaScript
-- PHP
-##### `Frontend`
-- HTML
-- CSS
-- JavaScript
-##### `Backend`
-- PHP
-- Laravel
-- CodeIgniter
-##### `Database`
-- MySQL
-- PostgreSQL
-##### `Tools`
-- Git
-- Docker
-- VS Code
-- WordPress(CMS)
-#### **Currently Learning**
-- Flask (micro-frame work of Python)
-- React (open source JS library)
-- Topics related to AI/ML
-#### **Amused enough? Contact me for gigs/freelancing**
-- saamriddha@gmail.com
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samcore07/samcore07/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samcore07/samcore07/output/github-contribution-grid-snake.svg">
+  <img src="assets/metrics.plugin.isocalendar.svg" alt="3D Calendar">
+</picture>
   
 
 
