@@ -1,5 +1,8 @@
 ## Hey, This is **Samriddha** speaking 👋
 
+## 💡 Tech Ecosystem
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,java,npm,git,docker,blender,python,fastapi,react,flask,opencv&perline=4)](https://skillicons.dev)
+
 #### Specialized  in `Full Stack Development`, `Artificial Intelligence`, and `Open Source`.
 #### **Learn About Me**
 - Student
