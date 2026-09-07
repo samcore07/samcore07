@@ -1,15 +1,13 @@
 ## Hey, This is **Samriddha** speaking 👋
 
-> [!NOTE]
 > 🎓 **1st Year B.Tech CSE (AI & ML)**  
 > ⚡ **Adept in Full-Stack Engineering**
 
-> [!TIP]
-> 💡 Passionate about **Data Pipelines**, **AI**, and **Open Source**  
+> 🔗 Passionate about **Data Pipelines**, **AI**, and **Open Source**  
 > 🌱 Currently Learning: `Flask` • `React` • `Machine Learning`
 
-> [!IMPORTANT]
-> 🔥 **LeetCode Enthusiast**
+> 🔥 LeetCode Enthusiast
+> 📄 Codeforces Grinder 
 
 <div align="center">
   <p>
