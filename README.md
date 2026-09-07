@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Animated Typing Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Your+Name;What+You+Do;Something+Fun">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Samriddha+Biswas+speaking;What+You+Do;Something+Fun">
 
   <!-- Profile View Counter -->
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=39d353&label=profile+views">
