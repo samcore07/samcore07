@@ -3,6 +3,10 @@
 ## 💡 Tech Ecosystem
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java,npm,git,docker,blender,vscode,fastapi,react,flask,opencv,supabase,vercel&perline=4)](https://skillicons.dev)
 
+## 📈 GitHub Analytics
+[![GitHub Streak](https://streak-stats.demolab.com?user=samcore07&theme=light&border_radius=5)](https://git.io/streak-stats)
+
+
 #### Specialized  in `Full Stack Development`, `Artificial Intelligence`, and `Open Source`.
 #### **Learn About Me**
 - Student
