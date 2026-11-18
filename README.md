@@ -43,27 +43,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=samcore07&theme=light&border_radius=5)](https://git.io/streak-stats)
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samcore07/samcore07/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samcore07/samcore07/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/samcore07/samcore07/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
-</picture>
-
-## 📝 Driven by Purpose
-
-<p align="center">
-  <a href="https://github.com/shravan20/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=default&quoteType=technology&cardPosition=1" alt="Developer Quote 1" width="30%" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/shravan20/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=default&quoteType=technology&cardPosition=2" alt="Developer Quote 2" width="30%" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/shravan20/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=default&quoteType=technology&cardPosition=3" alt="Developer Quote 3" width="30%" />
-  </a>
-</p>
-
-  
-
