@@ -6,7 +6,7 @@
 <table border="0" align="center">
   <tr style="border: none;">
     <td style="border-left: 4px solid #58A6FF; padding-left: 15px; border-top: none; border-bottom: none; border-right: none;">
-      🎓 <b>B.Tech ,CSE (AI & ML)</b><br>
+      🎓 <b>B.Tech, CSE (AI & ML)</b><br>
       ⚡ <b>Adept in Full-Stack Engineering</b>
     </td>
   </tr>
